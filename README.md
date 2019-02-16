@@ -15,7 +15,10 @@ Build a neural network from scratch and use it to predict daily bike rental ride
 
 ### Project Results
 <img src='prediction.png'>
- 
+
+The prediction fits great before Dec 22th. However, it shows obvious deviation from the data around the Christmas holiday. This model trained by the dataset may not have enough information about holidays to predict the effect of the holiday seasons.
+
+
 
 ## Getting Started
 ### Prerequisites
