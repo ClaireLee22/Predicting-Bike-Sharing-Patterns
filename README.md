@@ -14,6 +14,7 @@ Build a neural network from scratch and use it to predict daily bike rental ride
 - Make predictions
 
 ### Project Results
+<img src='prediction.png'>
  
 
 ## Getting Started
