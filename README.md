@@ -6,16 +6,13 @@ Neural Network Project [Udacity Deep Learning Nanodegree]
 Build a neural network from scratch and use it to predict daily bike rental ridership. 
 
 ### Project Procedure
-- Explore the data
 - Preprocesse the data
-  - Transfered skewed continous features
-  - One-hot encoding
+  - Scale continous features that they have zero mean and a standard deviation of 1.
+  - Split the data into training, testing, and validation sets
 - Evaluate performance of several supervised learning algorithms
-- Choose the best model
-- Tune model parameters using grid search
-- Evaluate feature importance to optimize the model's performance
-  - feature_importances_  attribute 
-  - recursive feature elimination(RFE)
+- Build the network
+- Train the network
+- Make predictions
 
 ### Project Results
  
