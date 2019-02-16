@@ -48,6 +48,7 @@ This will open the iPython Notebook software and project file in your browser.
 Download data from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
 **Features**
+
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
 - `instant`: record index
 - `dteday` : date
