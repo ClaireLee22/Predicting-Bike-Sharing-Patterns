@@ -9,7 +9,6 @@ Build a neural network from scratch and use it to predict daily bike rental ride
 - Preprocesse the data
   - Scale continous features that they have zero mean and a standard deviation of 1.
   - Split the data into training, testing, and validation sets
-- Evaluate performance of several supervised learning algorithms
 - Build the network
 - Train the network
 - Make predictions
