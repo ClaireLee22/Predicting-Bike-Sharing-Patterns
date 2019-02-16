@@ -2,12 +2,8 @@
 Neural Network Project [Udacity Deep Learning Nanodegree]
 
 ## Project Overview
-Build a neural network from scratch and use it to predict daily bike rental ridership. 
-
-
-## Project Overview
 ### Project Description
-Evaluate 10 supervised learning algorithms that are currently available in scikit-learn on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. 
+Build a neural network from scratch and use it to predict daily bike rental ridership. 
 
 ### Project Procedure
 - Explore the data
@@ -29,21 +25,7 @@ Evaluate 10 supervised learning algorithms that are currently available in sciki
   - recursive feature elimination(RFE)
 
 ### Project Results
-  - Gradient Boosting algorithm performed best in f-score and accuracy on the testing dataset
-  - Improve model performance after tuning model using grid search
-  
-    | Metric | Unoptimized Model | Optimized Model |
-    | :---:   | :-: | :-: |
-    | Accuracy | 0.8630 | 0.8705 |
-    | F-score | 0.7395 | 0.7513 |
-    
-  - Both accuracy score and f-score are slightly declined on the reduced data(top 5 important features) than the scores on the full data.     However, it decreases substantial training time. 
-  
-    | Metric | Final Model trained on full data |  Final Model trained on reduced data  |
-    | :---:   | :-: | :-: |
-    | Accuracy | 0.8705 | 0.8590 |
-    | F-score | 0.7513 | 0.7252 |
-    | Train time | 5.7013 | 54.9721|
+ 
 
 ## Getting Started
 ### Prerequisites
@@ -52,11 +34,11 @@ Evaluate 10 supervised learning algorithms that are currently available in sciki
 In a terminal or command window, run one of the following commands:
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook Your_first_neural_network.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook Your_first_neural_network.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
