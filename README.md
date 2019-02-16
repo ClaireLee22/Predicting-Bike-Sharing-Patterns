@@ -11,13 +11,6 @@ Build a neural network from scratch and use it to predict daily bike rental ride
   - Transfered skewed continous features
   - One-hot encoding
 - Evaluate performance of several supervised learning algorithms
-  - Gaussian Naive Bayes (GaussianNB)
-  - Decision Trees
-  - Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)
-  - K-Nearest Neighbors (KNeighbors)
-  - Stochastic Gradient Descent Classifier (SGDC)
-  - Support Vector Machines (SVM)
-  - Logistic Regression
 - Choose the best model
 - Tune model parameters using grid search
 - Evaluate feature importance to optimize the model's performance
@@ -29,6 +22,14 @@ Build a neural network from scratch and use it to predict daily bike rental ride
 
 ## Getting Started
 ### Prerequisites
+This project requires **Python 2.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+
 
 ### Run
 In a terminal or command window, run one of the following commands:
