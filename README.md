@@ -47,6 +47,11 @@ This will open the iPython Notebook software and project file in your browser.
 ### Data
 Download data from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
+**Files**
+
+- hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
+- day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
+
 **Features**
 
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
